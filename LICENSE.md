@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with Alfred for macOS updated Addon: tags & note encryption, the #1 addon. Includes tags and note encryption for a smoother experience.
 
 
 
